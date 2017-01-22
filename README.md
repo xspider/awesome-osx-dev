@@ -14,6 +14,14 @@
 
 ## 框架和库
 
+* 一个轻量级的布局框架 [Masonry](https://github.com/SnapKit/Masonry)
+* An iOS/OSX bridge for sending messages between Obj-C and JavaScript in WKWebViews, UIWebViews & WebViews. [WebViewJavascriptBridge](https://github.com/marcuswestin/WebViewJavascriptBridge)
+* Managing window size and position in OSX [ShiftIt](https://github.com/fikovnik/ShiftIt)
+* A beautiful set of predefined colors and a set of color methods to make your iOS/OSX development life easier. [Colours](https://github.com/bennyguitar/Colours)
+* High performance model framework for iOS/OSX. [YYModel](https://github.com/ibireme/YYModel)
+* Powerful dependency injection for iOS & OSX (Objective-C & Swift) [Typhoon](https://github.com/appsquickly/Typhoon)
+* NSRegularExpression extensions that make regular expressions easier in Objective-C, Swift, iOS, OSX [Objective-C-RegEx-Categories](https://github.com/bendytree/Objective-C-RegEx-Categories)
+
 ## 一些代码
 
 * 一份番茄钟代码，可以学习下导航菜单 [官网](http://tomighty.org/)
